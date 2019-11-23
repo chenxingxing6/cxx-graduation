@@ -8,10 +8,10 @@
 文件在线预览服务：file-online-preview   
 
 这些项目代码都推送到了我自己的github上：   
-> 1.vue-projectManage:git@github.com:chenxingxing6/vue-projectManage.git   
-2.mycloud-admina:git@github.com:chenxingxing6/mycloud-admin.git   
-3.mycloud:git@github.com:chenxingxing6/mycloud.git   
-4.file-online-preview:git@github.com:chenxingxing6/file-online-preview.git   
+> 1.vue-projectManage:https://github.com/chenxingxing6/vue-projectManage     
+2.mycloud-admina:https://github.com/chenxingxing6/mycloud-admin   
+3.mycloud:https://github.com/chenxingxing6/mycloud   
+4.file-online-preview:https://github.com/chenxingxing6/file-online-preview      
 
 ---
 
