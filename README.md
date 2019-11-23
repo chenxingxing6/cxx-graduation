@@ -1,16 +1,17 @@
-# 【2019届毕业设计】基于SpringCloud+Hadoop+Vue的企业级网盘系统设计与实现
+# 基于SpringCloud+Hadoop+Vue的企业级网盘系统设计与实现
+### 【2019届毕业设计】，优秀毕业设计，华东交通大学  
 
-## 一、前言 
+## 一、应用组成  
 > 前端：vue-projectManage   
 后台：mycloud-admin   
 提供前端服务：mycloud  ps:springcloud实现   
 文件在线预览服务：file-online-preview   
 
 这些项目代码都推送到了我自己的github上：   
-1.[vue-projectManage]:git@github.com:chenxingxing6/vue-projectManage.git
-2.[mycloud-admina]:git@github.com:chenxingxing6/mycloud-admin.git
-3.[mycloud]:git@github.com:chenxingxing6/mycloud.git
-4.[file-online-preview]:git@github.com:chenxingxing6/file-online-preview.git
+> 1.vue-projectManage:git@github.com:chenxingxing6/vue-projectManage.git   
+2.mycloud-admina:git@github.com:chenxingxing6/mycloud-admin.git   
+3.mycloud:git@github.com:chenxingxing6/mycloud.git   
+4.file-online-preview:git@github.com:chenxingxing6/file-online-preview.git   
 
 ---
 
