@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>00592ffc-b147-4331-a6a2-2bf55f6272d1.SCHEMA:cloud_disk</OriginalElement>
+  <nodes>
+    <node x="702.0" y="995.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_role_menu</node>
+    <node x="0.0" y="995.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_role</node>
+    <node x="918.0" y="995.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_user_role</node>
+    <node x="452.0" y="744.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_disk</node>
+    <node x="1127.0" y="995.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.tb_user_file</node>
+    <node x="0.0" y="427.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_user</node>
+    <node x="763.0" y="427.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.schedule_job</node>
+    <node x="0.0" y="744.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_dict</node>
+    <node x="847.0" y="0.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_notice</node>
+    <node x="986.0" y="744.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_config</node>
+    <node x="512.0" y="427.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.tb_follow</node>
+    <node x="229.0" y="744.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_menu</node>
+    <node x="273.0" y="0.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.tb_share</node>
+    <node x="560.0" y="0.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_schedule</node>
+    <node x="470.0" y="995.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_oss</node>
+    <node x="0.0" y="0.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.tb_file</node>
+    <node x="0.0" y="1180.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_role_dept</node>
+    <node x="735.0" y="744.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.tb_disk_file</node>
+    <node x="242.0" y="427.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.schedule_job_log</node>
+    <node x="1050.0" y="427.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_log</node>
+    <node x="247.0" y="995.0">00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_dept</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="645.5" y="318.0" />
+  <SelectedNodes>
+    <node>00592ffc-b147-4331-a6a2-2bf55f6272d1.TABLE:cloud_disk.sys_role_menu</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+
