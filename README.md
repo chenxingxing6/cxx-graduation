@@ -1,6 +1,8 @@
 # 基于SpringCloud+Hadoop+Vue的企业级网盘系统设计与实现
 ### 【2019届毕业设计】，【优秀毕业设计】，【华东交通大学】 
 
+![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/0.png)
+
 ## 一、应用组成  
 > 前端：vue-projectManage   
 后台：mycloud-admin   
@@ -50,6 +52,52 @@ Node服务器：Node v10.15.3
 
 
 ---
+## 三、系统架构
+![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/5.png)
+
+
+数据库：20张表
+```lua
+1.sys_config: 系统配置信息表
+2.sys_dept: 部门管理
+3.sys_dict: 数据字典表
+4.sys_disk: 企业网盘
+5.sys_log: 系统日志
+6.sys_menu: 菜单管理
+7.sys_notice: 通知公告表
+8.sys_oss: 文件上传
+9.sys_role: 角色
+10.sys_role_dept: 角色与部门对应关系
+11.sys_role_menu: 角色与菜单对应关系
+12.sys_user: 系统用户
+13.sys_user_role: 用户与角色对应关系
+14.schedule_job: 定时任务
+15.schedule_job_log: 定时任务日志
+16.tb_user_file: 用户与文件对应关系
+17.tb_file: 文件
+18.tb_disk_file: 企业共享网盘和文件对应关系
+19.tb_follow: 关注用户表
+20.tb_share: 分享表
+```
+
+---
+
+## 四、系统展示
+4.1 系统后台主界面
+
+4.1 系统后台主界面
+
+4.1 系统后台主界面
+
+4.1 系统后台主界面
+
+4.1 系统后台主界面
+
+4.1 系统后台主界面
+
+4.1 系统后台主界面
+
+
 
 
 
