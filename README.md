@@ -34,19 +34,19 @@ Node服务器：Node v10.15.3
 管理员和超级管理员成功登入系统后台后，默认会调到Index页面去，在该首页，我们可以看到登录用户、服务器运行相关信息。在数据大盘模块，可以看到最近上传文件的数量，以及最近一段时间的上传曲线图。系统超级管理员可以管理系统所有的功能和所有用户，如果需要控制系统用户能访问的菜单，系统管理员只需更改相关角色所拥有的菜单列表。
 
 
-![img](111111)
+![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/1.png)
 
 
 #### 2.3 模块结构
 基于SpringCloud+Hadoop+Vue企业网盘系统主要分为前台和后台两大模块，前台模块分为首页，网盘，分享，资源库，关注用户，系统公告模块，不同的功能模块拥有的功能也是不相同的。此外，所需权限也不同。后台模块分为用户、部门、角色、网盘、日志、系统监控、接口文档、定时任务模块。在网络磁盘管理模块中，管理员可以上传、删除和修改文档，管理员还可以在线查看多媒体资源，如Word文档、视频、音乐、图片。
 
-![img](111111)
+![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/2.png)
 
-![img](111111)
+![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/3.png)
 
 
 #### 2.4 内部微服务调用流程图
-![img](111111)
+![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/4.png)
 
 
 ---
