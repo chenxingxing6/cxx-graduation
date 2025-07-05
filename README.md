@@ -1,5 +1,5 @@
 # 基于SpringCloud+Hadoop+Vue的企业级网盘系统设计与实现
-### 【2019届毕业设计】，【优秀毕业设计】，【华东交通大学】 
+### 【2019届毕业设计】，【优秀毕业设计】、
 
 ![img](https://raw.githubusercontent.com/chenxingxing6/cxx-graduation/master/img/0.png)
 
